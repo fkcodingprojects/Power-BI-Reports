@@ -1,5 +1,3 @@
-# Welcome to the Repository!
-
 ## Power BI Reports
 
 This GitHub repository contains two comprehensive reports, meticulously crafted to delve into distinct yet captivating subjects: Global Energy and Video Game Sales. These reports are the result of extensive research and analysis, aiming to provide valuable insights to a diverse audience with an interest in these fields.
